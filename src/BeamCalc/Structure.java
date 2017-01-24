@@ -16,7 +16,7 @@ import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.io.IOException;
 import java.io.PrintWriter;
-import orbit.library.Orbit;
+import Orbit.Orbit;
 import processing.core.PApplet;
 import processing.core.PConstants;
 import processing.core.PFont;

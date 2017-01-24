@@ -12,7 +12,7 @@
  * http://creativecommons.org/licenses/by/3.0/
  */
 
-package orbit.library;
+package Orbit;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.MouseEvent;
